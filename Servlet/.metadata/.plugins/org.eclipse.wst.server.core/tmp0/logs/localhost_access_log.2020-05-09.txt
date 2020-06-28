@@ -1,6 +1,0 @@
-127.0.0.1 - - [09/May/2020:23:12:10 +0530] "GET / HTTP/1.1" 404 709
-0:0:0:0:0:0:0:1 - - [09/May/2020:23:12:13 +0530] "GET /sendRDApp-3DynaRegistration/ HTTP/1.1" 200 538
-0:0:0:0:0:0:0:1 - - [09/May/2020:23:12:14 +0530] "GET /favicon.ico HTTP/1.1" 404 720
-0:0:0:0:0:0:0:1 - - [09/May/2020:23:15:21 +0530] "POST /sendRDApp-3DynaRegistration/searchurl HTTP/1.1" 404 750
-0:0:0:0:0:0:0:1 - - [09/May/2020:23:15:39 +0530] "POST /sendRDApp-3DynaRegistration/searchurl HTTP/1.1" 404 750
-0:0:0:0:0:0:0:1 - - [09/May/2020:23:24:14 +0530] "POST /sendRDApp-3DynaRegistration/searchurl HTTP/1.1" 302 -

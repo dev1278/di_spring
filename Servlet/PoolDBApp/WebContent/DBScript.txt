@@ -1,2 +1,0 @@
-SQL>create table corona_registration(patId number(5)primary key,patName  varchar2(15),patAddr varchar2(15),gender varchar2(7),stage varchar2(10));
-SQL>create sequence corona_patId_seq start with 1 increment by 1;

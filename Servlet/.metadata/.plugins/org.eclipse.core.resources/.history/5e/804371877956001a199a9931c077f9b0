@@ -1,9 +1,0 @@
-package com.nt.servlet;
-
-import javax.servlet.http.HttpServlet;
-
-public class FormVaildation extends HttpServlet {
-	
-	public void doPost(HttpServletRequest req ,HttpServletResponse res)throws ServletException,IOException
-
-}

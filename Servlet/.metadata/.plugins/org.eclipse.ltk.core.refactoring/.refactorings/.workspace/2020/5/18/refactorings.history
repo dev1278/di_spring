@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;CookiesApp-POC&apos; to &apos;CookiesApp1-POC&apos;" description="Rename resource &apos;CookiesApp-POC&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/CookiesApp-POC" name="CookiesApp1-POC" stamp="1588419936256" updateReferences="true"/>
-</session>

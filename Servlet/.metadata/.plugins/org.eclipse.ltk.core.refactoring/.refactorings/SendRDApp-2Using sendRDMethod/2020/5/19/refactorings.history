@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy package &apos;com.nt.servlet&apos; to &apos;sendRDApp-3DynaRegistration/src&apos;&#x0D;&#x0A;- Original project: &apos;SendRDApp-2Using sendRDMethod&apos;&#x0D;&#x0A;- Destination element: &apos;sendRDApp-3DynaRegistration/src&apos;&#x0D;&#x0A;- Original element: &apos;SendRDApp-2Using sendRDMethod/src/com.nt.servlet&apos;" description="Copy package" destination="=sendRDApp-3DynaRegistration/src" element1="/src&lt;com.nt.servlet" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1589030903144" version="1.0"/>
-</session>

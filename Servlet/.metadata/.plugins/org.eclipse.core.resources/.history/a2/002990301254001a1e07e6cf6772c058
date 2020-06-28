@@ -1,9 +1,0 @@
-<h1 style="color:red;  text-align:center">Html to Servlet  Commnucution Cheak Marriage Eligibilty</h1>
- <form action ="http://localhost:3333/MarriageApp/marriageurl" method ="post">
- Person name: <input type ="text" name ="pname" /><br>
- Person age: <input type ="password" name ="page" /><br>
-  Gender :   <input type ="radio"  name ="gen" value ="male" />Male
-              <input type ="radio"  name ="gen" value ="female"/>Female<br>
-               <input type ="submit" value ="Cheak Marriage Eligibilty" />                             
- 
- </form>

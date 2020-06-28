@@ -1,1 +1,0 @@
-<h1 style="color:blue;  text-align:center">Welcome to Index File</h1>

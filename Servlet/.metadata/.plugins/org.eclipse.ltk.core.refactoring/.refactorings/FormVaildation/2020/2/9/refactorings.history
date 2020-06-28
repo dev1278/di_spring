@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;FormVaildation/WebContent/META-INF/Form.html&apos; to &apos;form.html&apos;" description="Rename resource &apos;Form.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/META-INF/Form.html" name="form.html" stamp="1582476558832" updateReferences="true"/>
-</session>
