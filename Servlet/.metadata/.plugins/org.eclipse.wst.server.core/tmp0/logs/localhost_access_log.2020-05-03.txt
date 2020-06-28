@@ -1,0 +1,8 @@
+127.0.0.1 - - [03/May/2020:00:24:43 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [03/May/2020:00:24:43 +0530] "GET /CookiesApp2_SessionTracking/ HTTP/1.1" 200 960
+0:0:0:0:0:0:0:1 - - [03/May/2020:00:24:51 +0530] "POST /CookiesApp2_SessionTracking/firsturl HTTP/1.1" 200 401
+0:0:0:0:0:0:0:1 - - [03/May/2020:00:24:57 +0530] "POST /CookiesApp2_SessionTracking/secondurl HTTP/1.1" 200 130
+0:0:0:0:0:0:0:1 - - [03/May/2020:00:25:12 +0530] "GET /CookiesApp2_SessionTracking/input.html HTTP/1.1" 304 -
+127.0.0.1 - - [03/May/2020:00:25:45 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [03/May/2020:00:26:02 +0530] "POST /CookiesApp2_SessionTracking/firsturl HTTP/1.1" 200 401
+0:0:0:0:0:0:0:1 - - [03/May/2020:00:26:07 +0530] "POST /CookiesApp2_SessionTracking/secondurl HTTP/1.1" 200 130

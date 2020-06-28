@@ -1,0 +1,34 @@
+package com.jdbc.my;
+
+import javax.sql.RowSet;
+
+import oracle.jdbc.rowset.OracleJDBCRowSet;
+
+public class JDBCRowSet {
+
+	public static void main(String[] args) {
+	  RowSet jrowset=null;
+		try {
+//create RowSet Object
+			jrowset=new OracleJDBCRowSet();
+			
+//set Jdbc properties
+			jrowset.setUrl("jdbc:oracle:thin:@localhost:1521:xe");
+			jrowset.setUsername("system");
+			jrowset.setPassword("manager");
+			jrowset.setCommand("select * from emp");
+			jrowset.execute();
+			System.out.println("Comment EXECUTE");
+	//process the ROWSET
+			while(jrowset.next()) {
+				System.out.println(jrowset.getInt(1)+" "+jrowset.getString(2));
+			}
+			jrowset.close();
+		}//try
+		catch(Exception e) {
+			e.printStackTrace();
+		}
+
+	}//main
+
+}//class

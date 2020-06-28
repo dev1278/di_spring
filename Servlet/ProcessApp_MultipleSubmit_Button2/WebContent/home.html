@@ -1,0 +1,37 @@
+<h1 style='Color:red;text-align:center'> User Submit or Hyperlinks Html to Servlet Communication</h1>
+ <form  name="frm" action="processurl" method="get"> 
+         First:<input type="text" name="first">
+         Second:<input type="text" name="first"> 
+                <input type="hidden" name="source"/>
+          <input type="button" value="add" onclick="send(this.value)">
+          <input type="button" value="difference" onclick="send(this.value)">
+          <input type="button" value="divide" onclick="send(this.value)">
+          <input type="button" value="product" onclick="send(this.value)">
+         
+         <a href="processurl?source=link"><sys.props>()</a>
+     
+    </form>
+    <script language="javaScript">
+       function send(cap){
+           
+            if(cap=="add")
+           frm.source.value="sum";
+           
+           else if(cap=="difference")
+           frm.source.value="sub";
+           
+           else if(cap=="divide")
+           frm.source.value="div";
+           
+           else if(cap=="product")
+           frm.source.value="mul";
+             frm.submit();
+           }
+         </srcipt>  
+           
+    
+     
+               
+                
+     
+          

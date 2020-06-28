@@ -1,0 +1,38 @@
+package com.jdbc.my;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.util.Scanner;
+
+public class JDBCSavePoint {
+  private static final String PRODUCT_QUERY="UPDATE FILPKART SET QTY=QTY-1 WHERE FNO=?";
+  private static final String BANK_QUERY="UPDATE BOB_BANK SET BALANCE=BALANCE-(SELECT PRICE FROM FLIPKART WHERE FNO=?)WHERE ACCNO=?";
+	public static void main(String[] args) {
+		Scanner sc=null;
+		int fno=0,no=0;
+		Connection con=null;
+		PreparedStatement ps1=null,ps2=null;
+		try {
+			sc=new Scanner(System.in);
+			if(sc!=null) {
+				System.out.println(" Enter Product FNO::");
+				fno=sc.nextInt();
+				System.out.println("Enter BankAccNO::");
+				no=sc.nextInt();
+			}
+	//rgister jdbc 
+			Class.forName("oracle.jdbc.driver.OracleDriver");
+// established the Connection
+			con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","system","manager");
+//begin Tx
+			con.setAutoCommit(false);
+			
+//prepare stmt
+			ps1=con.prepareStatement(PRODUCT_QUERY);
+			ps2=con.prepareStatement(BANK_QUERY);
+		}
+
+	}
+
+}

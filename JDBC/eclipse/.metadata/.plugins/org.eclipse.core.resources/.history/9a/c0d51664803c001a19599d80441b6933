@@ -1,0 +1,30 @@
+package com.jdbc.my;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.util.Scanner;
+
+public class JDBCSavePoint {
+
+	public static void main(String[] args) {
+		Scanner sc=null;
+		int fno=0,no=0;
+		Connection con=null;
+		try {
+			sc=new Scanner(System.in);
+			if(sc!=null) {
+				System.out.println(" Enter Product FNO::");
+				fno=sc.nextInt();
+				System.out.println("Enter BankAccNO::");
+				no=sc.nextInt();
+			}
+	//rgister jdbc 
+			Class.forName("oracle.jdbc.driver.OracleDriver");
+// established the Connection
+			con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","system","manager");
+			
+		}
+
+	}
+
+}

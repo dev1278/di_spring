@@ -1,0 +1,438 @@
+
+Feb 20, 2020 23:58:28.35 NEW SESSION
+Feb 20, 2020 23:58:28.35 [4628:3928:0220/235828.354:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 20, 2020 23:58:40.77 [4628:3928:0220/235840.774:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Feb 20, 2020 23:59:25.69 [4628:3928:0220/235925.690:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+
+Feb 22, 2020 24:37:51.39 NEW SESSION
+Feb 22, 2020 24:37:51.39 [896:5136:0222/003751.390:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 22, 2020 03:37:51.50 [896:5136:0222/033751.504:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Feb 22, 2020 03:37:51.66 [896:6100:0222/033751.664:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 22, 2020 03:37:51.68 [896:5076:0222/033751.684:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 22, 2020 03:38:01.57 [896:5136:0222/033801.502:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+Feb 22, 2020 03:38:01.59 [896:5076:0222/033801.591:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 22, 2020 03:38:01.60 [896:5076:0222/033801.604:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 22, 2020 03:38:03.10 [896:5076:0222/033803.100:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 22, 2020 03:38:08.31 [896:5076:0222/033808.311:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 22, 2020 10:56:29.52 [896:5136:0222/105629.523:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Feb 22, 2020 10:56:29.68 [896:6100:0222/105629.684:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 22, 2020 10:56:32.72 [896:5076:0222/105629.696:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 22, 2020 10:56:33.13 [896:5136:0222/105633.133:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Feb 22, 2020 10:56:33.13 [896:5076:0222/105633.133:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 22, 2020 10:56:39.48 [896:5136:0222/105639.481:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Feb 22, 2020 10:56:39.48 [896:5076:0222/105639.481:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 22, 2020 10:56:39.48 [896:5076:0222/105639.484:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 22, 2020 10:57:15.52 [896:6100:0222/105715.523:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 22, 2020 10:57:30.48 [896:5136:0222/105730.489:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+Feb 22, 2020 10:57:30.49 [896:5076:0222/105730.489:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+
+Feb 24, 2020 23:47:31.00 NEW SESSION
+Feb 24, 2020 23:47:31.00 [196:2324:0224/234730.996:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 25, 2020 24:14:46.50 [196:2324:0225/001446.504:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Feb 25, 2020 24:33:42.90 [196:2324:0225/003342.905:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 25, 2020 24:48:36.79 [196:2324:0225/004836.790:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 25, 2020 01:51:27.54 [196:2324:0225/015127.544:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Feb 25, 2020 01:51:28.02 [196:5364:0225/015127.731:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 25, 2020 02:01:21.93 [196:2324:0225/020121.936:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Feb 25, 2020 02:01:48.35 [196:2324:0225/020148.353:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Feb 25, 2020 02:02:07.16 [196:2324:0225/020207.162:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+
+Feb 26, 2020 01:35:58.67 NEW SESSION
+Feb 26, 2020 01:35:58.67 [6116:1844:0226/013558.676:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 26, 2020 01:57:00.50 [6116:1844:0226/015700.503:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+
+Feb 27, 2020 24:31:33.23 NEW SESSION
+Feb 27, 2020 24:31:33.23 [4260:6944:0227/003133.227:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:34.28 [4260:6944:0227/003134.287:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:35.30 [4260:6944:0227/003135.300:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:36.32 [4260:6944:0227/003136.328:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:37.33 [4260:6944:0227/003137.333:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:38.46 [4260:6944:0227/003138.464:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:39.52 [4260:6944:0227/003139.525:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:40.76 [4260:6944:0227/003140.767:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:42.56 [4260:6944:0227/003142.562:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:43.90 [4260:6944:0227/003143.905:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:45.89 [4260:6944:0227/003145.892:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:47.95 [4260:6944:0227/003147.955:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:49.72 [4260:6944:0227/003149.724:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:51.84 [4260:6944:0227/003151.843:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:53.37 [4260:6944:0227/003153.372:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:54.81 [4260:6944:0227/003154.813:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:56.22 [4260:6944:0227/003156.226:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:57.85 [4260:6944:0227/003157.847:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:31:59.58 [4260:6944:0227/003159.584:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:01.31 [4260:6944:0227/003201.306:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:02.83 [4260:6944:0227/003202.838:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:04.46 [4260:6944:0227/003204.465:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:06.09 [4260:6944:0227/003206.094:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:07.71 [4260:6944:0227/003207.717:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:08.91 [4260:6944:0227/003208.910:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:10.15 [4260:6944:0227/003210.154:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:11.73 [4260:6944:0227/003211.739:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:13.35 [4260:6944:0227/003213.354:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:14.55 [4260:6944:0227/003214.555:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:16.39 [4260:6944:0227/003216.394:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:18.20 [4260:6944:0227/003218.198:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:19.39 [4260:6944:0227/003219.391:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:21.12 [4260:6944:0227/003221.124:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:22.42 [4260:6944:0227/003222.429:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:24.25 [4260:6944:0227/003224.253:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:27.08 [4260:6944:0227/003227.088:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:28.60 [4260:6944:0227/003228.609:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:30.35 [4260:6944:0227/003230.359:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:31.96 [4260:6944:0227/003231.969:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:33.39 [4260:6944:0227/003233.394:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:35.02 [4260:6944:0227/003235.023:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:36.85 [4260:6944:0227/003236.858:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:38.58 [4260:6944:0227/003238.584:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:40.12 [4260:6944:0227/003240.122:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:41.85 [4260:6944:0227/003241.854:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:43.90 [4260:6944:0227/003243.901:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:45.63 [4260:6944:0227/003245.634:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:47.36 [4260:6944:0227/003247.364:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:49.20 [4260:6944:0227/003249.208:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:50.93 [4260:6944:0227/003250.929:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:52.75 [4260:6944:0227/003252.756:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:54.58 [4260:6944:0227/003254.583:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:56.42 [4260:6944:0227/003256.423:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:57.88 [4260:6944:0227/003257.886:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:32:59.56 [4260:6944:0227/003259.561:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:01.28 [4260:6944:0227/003301.284:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:03.21 [4260:6944:0227/003303.218:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:05.14 [4260:6944:0227/003305.148:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:07.08 [4260:6944:0227/003307.082:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:09.00 [4260:6944:0227/003309.008:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:11.04 [4260:6944:0227/003311.040:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:13.07 [4260:6944:0227/003313.078:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:15.00 [4260:6944:0227/003315.005:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:16.74 [4260:6944:0227/003316.744:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:18.78 [4260:6944:0227/003318.785:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:20.72 [4260:6944:0227/003320.723:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:22.75 [4260:6944:0227/003322.754:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:24.61 [4260:6944:0227/003324.610:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:26.53 [4260:6944:0227/003326.534:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:28.47 [4260:6944:0227/003328.473:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:30.30 [4260:6944:0227/003330.302:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:32.42 [4260:6944:0227/003332.427:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:34.15 [4260:6944:0227/003334.157:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:36.08 [4260:6944:0227/003336.087:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:37.92 [4260:6944:0227/003337.920:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:39.66 [4260:6944:0227/003339.663:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:41.50 [4260:6944:0227/003341.506:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:43.63 [4260:6944:0227/003343.633:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:45.46 [4260:6944:0227/003345.467:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:47.50 [4260:6944:0227/003347.507:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:49.43 [4260:6944:0227/003349.437:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:51.26 [4260:6944:0227/003351.268:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:52.80 [4260:6944:0227/003352.801:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:54.93 [4260:6944:0227/003354.938:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:56.86 [4260:6944:0227/003356.861:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:33:58.78 [4260:6944:0227/003358.788:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:00.52 [4260:6944:0227/003400.520:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:02.56 [4260:6944:0227/003402.560:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:04.37 [4260:6944:0227/003404.379:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:06.41 [4260:6944:0227/003406.415:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:08.23 [4260:6944:0227/003408.238:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:10.06 [4260:6944:0227/003410.068:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:12.10 [4260:6944:0227/003412.108:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:14.05 [4260:6944:0227/003414.050:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:15.88 [4260:6944:0227/003415.881:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:17.91 [4260:6944:0227/003417.912:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:19.85 [4260:6944:0227/003419.849:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:21.97 [4260:6944:0227/003421.975:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:23.82 [4260:6944:0227/003423.821:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:25.75 [4260:6944:0227/003425.757:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:27.89 [4260:6944:0227/003427.897:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:30.05 [4260:6944:0227/003430.051:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:32.08 [4260:6944:0227/003432.080:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:33.91 [4260:6944:0227/003433.910:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:35.84 [4260:6944:0227/003435.844:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:37.87 [4260:6944:0227/003437.876:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:40.01 [4260:6944:0227/003440.013:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:41.93 [4260:6944:0227/003441.934:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:43.85 [4260:6944:0227/003443.856:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:45.78 [4260:6944:0227/003445.789:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:47.92 [4260:6944:0227/003447.920:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:49.85 [4260:6944:0227/003449.854:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:51.78 [4260:6944:0227/003451.786:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:54.93 [4260:6944:0227/003454.935:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:34:56.50 [4260:6944:0227/003456.504:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:35:41.97 [4260:6944:0227/003541.972:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:35:43.04 [4260:6944:0227/003543.046:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:39:45.94 [4260:6944:0227/003945.948:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:39:47.33 [4260:6944:0227/003947.334:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:43:49.95 [4260:6944:0227/004349.952:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:43:51.16 [4260:6944:0227/004351.166:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:43:52.79 [4260:6944:0227/004352.793:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:43:56.11 [4260:6944:0227/004356.119:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:47:56.62 [4260:6944:0227/004756.621:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:48:00.89 [4260:6944:0227/004800.891:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:48:07.47 [4260:6944:0227/004807.478:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:48:09.67 [4260:6944:0227/004809.672:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:52:00.05 [4260:6944:0227/005200.058:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:52:01.21 [4260:6944:0227/005201.213:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+Feb 27, 2020 24:55:35.87 [4260:5108:0227/005535.878:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 27, 2020 24:55:36.33 [4260:5108:0227/005536.339:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+Feb 27, 2020 01:04:54.50 [4260:5108:0227/010454.499:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2020 01:05:02.07 [4260:6944:0227/010502.075:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.262 s for first_image_paint 2.14 s
+
+Feb 29, 2020 01:11:18.51 NEW SESSION
+Feb 29, 2020 01:11:18.60 [4288:3632:0229/011118.500:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 29, 2020 01:13:32.57 [4288:3632:0229/011332.574:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Feb 29, 2020 01:14:25.06 [4288:3632:0229/011425.068:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 29, 2020 01:15:52.83 [4288:3632:0229/011552.835:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -109
+
+Mar 03, 2020 10:46:25.92 NEW SESSION
+Mar 03, 2020 10:46:26.04 [2944:3400:0303/104625.925:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Mar 03, 2020 10:46:26.17 [2944:3400:0303/104625.925:ERROR:cache_util.cc(135)] Unable to move cache folder C:\Users\Devendra\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Devendra\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 03, 2020 10:46:26.17 [2944:3400:0303/104625.925:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 03, 2020 10:46:26.17 [2944:3400:0303/104625.925:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Mar 03, 2020 10:46:26.17 [2944:3400:0303/104626.000:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Mar 03, 2020 10:46:26.18 [2944:3400:0303/104626.000:ERROR:cache_util.cc(135)] Unable to move cache folder C:\Users\Devendra\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Devendra\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 03, 2020 10:46:26.18 [2944:3400:0303/104626.000:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 03, 2020 10:46:26.18 [2944:3400:0303/104626.000:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Mar 03, 2020 10:46:26.78 Opening in existing browser session.
+
+Mar 06, 2020 01:43:27.89 NEW SESSION
+Mar 06, 2020 01:43:27.89 [3656:4300:0306/014327.889:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Mar 31, 2020 18:06:08.95 NEW SESSION
+Mar 31, 2020 18:06:08.95 [1440:1692:0331/180608.945:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Mar 31, 2020 21:06:13.50 [1440:1692:0331/210613.507:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Mar 31, 2020 21:06:13.65 [1440:2960:0331/210613.656:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 21:06:16.82 [1440:1692:0331/210616.815:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Mar 31, 2020 21:06:19.97 [1440:1692:0331/210619.974:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Mar 31, 2020 21:06:22.98 [1440:1692:0331/210622.981:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Mar 31, 2020 21:06:35.04 [1440:2960:0331/210635.048:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 01, 2020 09:56:27.74 [1440:1692:0401/095627.742:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 01, 2020 09:56:28.26 [1440:2960:0401/095628.003:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 01, 2020 09:56:28.29 [1440:2960:0401/095628.297:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+Apr 01, 2020 09:56:34.97 [1440:1692:0401/095634.979:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 09:57:01.13 [1440:2960:0401/095701.137:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-331).
+Apr 01, 2020 09:57:42.51 [1440:1692:0401/095742.510:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 01, 2020 09:57:42.93 [1440:2960:0401/095742.674:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-331).
+Apr 01, 2020 09:57:48.97 [1440:1692:0401/095748.976:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 09:57:53.15 [1440:2960:0401/095753.157:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 01, 2020 10:01:39.39 [1440:2960:0401/100139.393:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 01, 2020 10:28:00.96 [1440:1692:0401/102800.945:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 10:28:26.67 [1440:1692:0401/102826.672:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 10:29:18.43 [1440:1692:0401/102918.431:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 10:30:41.71 [1440:1692:0401/103041.710:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 10:33:32.65 [1440:1692:0401/103332.649:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 11:10:45.67 [1440:1692:0401/111045.670:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 01, 2020 11:17:33.59 [1440:1692:0401/111733.593:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 11:18:02.29 [1440:1692:0401/111802.294:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 11:18:26.50 [1440:1692:0401/111826.505:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 11:19:13.15 [1440:1692:0401/111913.154:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 12:35:28.58 [1440:1692:0401/123528.580:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 01, 2020 12:35:28.65 [1440:2960:0401/123528.654:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 01, 2020 12:35:31.41 [1440:1692:0401/123531.418:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 12:35:34.96 [1440:1692:0401/123534.968:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 12:35:37.97 [1440:1692:0401/123537.971:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 12:35:54.91 [1440:2960:0401/123554.912:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 01, 2020 12:36:47.06 [1440:2960:0401/123647.064:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 01, 2020 12:38:22.02 [1440:2960:0401/123822.024:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 01, 2020 12:41:20.47 [1440:2960:0401/124120.477:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 01, 2020 15:42:59.58 [1440:1692:0401/154259.585:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 01, 2020 15:42:59.64 [1440:2960:0401/154259.648:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 01, 2020 15:43:05.97 [1440:1692:0401/154305.976:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2020 15:43:16.79 [1440:1692:0401/154316.792:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 20:16:56.99 [1440:1692:0402/201656.736:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 20:16:58.52 [1440:2960:0402/201658.522:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 20:16:58.52 [1440:1692:0402/201658.523:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 02, 2020 20:16:58.59 [1440:2960:0402/201658.596:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+Apr 02, 2020 20:17:02.47 [1440:1692:0402/201702.478:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 02, 2020 20:17:21.36 [1440:1692:0402/201721.365:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 02, 2020 20:17:23.90 [1440:2960:0402/201723.907:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Request canceled.
+Apr 02, 2020 20:17:23.90 [1440:2960:0402/201723.907:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Request canceled.
+
+Apr 03, 2020 09:11:37.30 NEW SESSION
+Apr 03, 2020 09:11:37.30 [3840:3624:0403/091137.304:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2020 09:12:06.34 [3840:3624:0403/091206.339:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2020 09:12:52.53 [3840:3624:0403/091252.534:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2020 09:14:03.07 [3840:6668:0403/091403.076:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 03, 2020 09:14:29.10 [3840:3624:0403/091429.107:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2020 09:14:31.81 [3840:6668:0403/091431.812:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 03, 2020 09:15:25.65 [3840:6668:0403/091525.659:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 03, 2020 09:17:02.88 [3840:6668:0403/091702.888:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 03, 2020 09:17:26.00 [3840:3624:0403/091726.001:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2020 09:20:43.20 [3840:6668:0403/092043.206:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 03, 2020 09:24:40.04 [3840:3624:0403/092440.039:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Apr 03, 2020 20:20:58.36 NEW SESSION
+Apr 03, 2020 20:20:58.36 [2528:3492:0403/202058.359:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2020 20:21:19.73 [2528:4888:0403/202119.734:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Apr 03, 2020 20:21:20.13 [2528:4888:0403/202120.132:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Apr 03, 2020 20:21:20.21 [2528:4888:0403/202120.212:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Apr 03, 2020 20:21:24.91 [2528:3492:0403/202124.908:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2020 20:22:31.73 [6160:444:0403/202231.730:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Apr 25, 2020 17:23:44.60 NEW SESSION
+Apr 25, 2020 17:23:44.60 [4472:7056:0425/172344.602:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Apr 25, 2020 17:32:15.20 [4472:1912:0425/173215.203:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 25, 2020 18:11:31.71 [4472:1912:0425/181131.718:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 25, 2020 21:11:33.50 [4472:1912:0425/211133.507:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 25, 2020 21:11:36.87 [4472:1912:0425/211136.871:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 25, 2020 21:11:39.96 [4472:1912:0425/211139.960:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 25, 2020 21:11:42.96 [4472:1912:0425/211142.963:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 25, 2020 21:35:12.68 [4472:1912:0425/213512.681:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2020 21:35:19.96 [4472:1912:0425/213519.964:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Apr 27, 2020 08:42:52.87 NEW SESSION
+Apr 27, 2020 08:42:52.92 [1312:4884:0427/084252.873:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Apr 27, 2020 08:46:33.26 [1132:5540:0427/084633.267:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Apr 27, 2020 08:46:36.56 [1132:1444:0427/084636.566:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 08:47:00.78 [1132:1444:0427/084700.782:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 08:47:55.60 [1132:1444:0427/084755.607:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 08:49:26.31 [1132:1444:0427/084926.319:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 08:52:31.37 [1132:1444:0427/085231.373:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 08:56:54.98 [4768:2064:0427/085654.981:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Apr 27, 2020 08:57:01.76 [4768:5864:0427/085701.767:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 08:57:23.42 [4768:5864:0427/085723.420:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 08:58:22.71 [4768:5864:0427/085822.716:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 08:59:55.07 [4768:5864:0427/085955.071:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:02:40.53 [4768:5864:0427/090240.538:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:07:54.48 [4768:5864:0427/090754.486:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:08:16.03 [4768:5864:0427/090816.036:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:18:16.03 [4768:5864:0427/091816.039:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:26:39.91 [3652:3016:0427/092639.911:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Apr 27, 2020 09:26:43.45 [3652:5920:0427/092643.450:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:27:03.97 [3652:5920:0427/092703.974:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:27:56.52 [3652:5920:0427/092756.528:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:29:33.36 [3652:5920:0427/092933.368:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:32:46.78 [3652:5920:0427/093246.785:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:38:36.62 [3652:5920:0427/093836.626:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:48:36.63 [3652:5920:0427/094836.630:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 09:58:36.63 [3652:5920:0427/095836.632:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Apr 27, 2020 18:06:30.32 NEW SESSION
+Apr 27, 2020 18:06:30.33 [2476:7096:0427/180630.243:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Apr 27, 2020 18:06:33.65 [2476:3208:0427/180633.658:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:07:02.68 [2476:3208:0427/180702.679:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:07:57.98 [2476:3208:0427/180757.987:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:09:04.23 [2476:7096:0427/180904.236:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Apr 27, 2020 18:09:04.81 [2476:7096:0427/180904.815:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Apr 27, 2020 18:09:04.90 [2476:7096:0427/180904.905:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Apr 27, 2020 18:09:48.52 [2476:3208:0427/180948.526:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:12:36.81 [2476:3208:0427/181236.815:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:31:43.75 [2476:3208:0427/183143.749:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:32:11.04 [2476:3208:0427/183211.039:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:32:49.48 [2476:3208:0427/183249.486:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:36:16.82 [2476:3208:0427/183616.823:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:36:20.39 [2476:3208:0427/183620.390:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:36:23.47 [2476:3208:0427/183623.471:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:38:07.86 [2476:3208:0427/183807.866:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:39:36.55 [2476:3208:0427/183936.555:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 27, 2020 18:40:52.48 [2476:3208:0427/184052.482:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 18:43:36.92 [2476:3208:0427/184336.920:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 19:25:57.65 [2476:3208:0427/192557.651:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 27, 2020 20:39:13.69 [2476:3208:0427/203913.693:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 20:39:17.25 [2476:3208:0427/203917.254:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 21:18:10.47 [2476:3208:0427/211810.475:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 27, 2020 21:18:10.71 [2476:3208:0427/211810.712:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 21:44:53.68 [2476:3208:0427/214453.688:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 21:45:00.05 [2476:3208:0427/214500.058:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 22:46:26.07 [2476:3208:0427/224626.079:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 22:46:47.45 [2476:3208:0427/224647.453:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 22:47:28.92 [2476:3208:0427/224728.924:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2020 22:49:21.84 [2476:3208:0427/224921.840:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Apr 30, 2020 10:10:03.00 NEW SESSION
+Apr 30, 2020 10:10:03.00 [3712:5144:0430/101003.001:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Apr 30, 2020 10:11:06.72 [3712:2008:0430/101106.721:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 10:11:06.72 [3712:2008:0430/101106.723:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+Apr 30, 2020 10:11:06.75 [3712:2008:0430/101106.756:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+Apr 30, 2020 10:11:09.78 [3712:2008:0430/101109.788:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 10:11:29.81 [3712:2008:0430/101129.811:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+Apr 30, 2020 10:11:36.16 [3712:2008:0430/101136.169:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+Apr 30, 2020 10:11:37.13 [3712:5144:0430/101137.134:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Apr 30, 2020 10:11:37.35 [3712:5144:0430/101137.354:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Apr 30, 2020 10:11:39.20 [3712:5144:0430/101139.205:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Apr 30, 2020 10:11:52.76 [3712:2008:0430/101152.764:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 10:13:26.31 [2396:2976:0430/101326.317:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+Apr 30, 2020 15:18:47.50 NEW SESSION
+Apr 30, 2020 15:18:47.50 [4768:4292:0430/151847.500:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Apr 30, 2020 15:18:57.32 [4768:6680:0430/151857.326:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 15:18:57.33 [4768:6680:0430/151857.326:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 30, 2020 15:19:19.00 [4768:6680:0430/151919.007:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 30, 2020 15:19:20.96 [4768:6680:0430/151920.967:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 15:20:11.41 [4768:6680:0430/152011.418:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 15:20:13.60 [4768:6680:0430/152013.600:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 30, 2020 15:21:52.02 [4768:6680:0430/152152.029:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 15:22:03.73 [4768:6680:0430/152203.734:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+
+Apr 30, 2020 18:12:30.11 NEW SESSION
+Apr 30, 2020 18:12:30.12 [4348:2516:0430/181230.103:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Apr 30, 2020 18:12:32.58 [4348:6052:0430/181232.581:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 18:12:58.08 [4348:6052:0430/181258.080:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 18:13:42.06 [4348:6052:0430/181342.066:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 18:15:27.24 [4348:6052:0430/181527.241:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 18:18:18.53 [4348:6052:0430/181818.536:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 18:24:02.10 [4348:6052:0430/182402.108:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 18:34:02.11 [4348:6052:0430/183402.111:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 18:44:02.11 [4348:6052:0430/184402.115:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 18:51:47.83 [4348:6052:0430/185147.838:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 18:51:50.84 [4348:6052:0430/185150.845:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 18:54:02.80 [4348:6052:0430/185402.803:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 18:54:05.81 [4348:6052:0430/185405.810:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 19:04:55.12 [4348:6052:0430/190455.123:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 19:05:23.82 [4348:6052:0430/190523.822:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 19:06:23.52 [4348:6052:0430/190623.523:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 19:07:54.18 [4348:6052:0430/190754.186:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 19:10:01.97 [4348:6052:0430/191001.979:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 19:11:34.69 [4348:6052:0430/191134.698:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 19:12:02.75 [4348:6052:0430/191202.750:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 19:12:48.12 [4348:6052:0430/191248.123:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 19:14:26.17 [4348:6052:0430/191426.170:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 19:17:11.34 [4348:6052:0430/191711.343:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 22:21:14.56 [4348:6052:0430/222114.566:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 30, 2020 22:21:17.59 [4348:6052:0430/222117.590:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 22:21:20.95 [4348:6052:0430/222120.955:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2020 22:21:23.95 [4348:6052:0430/222123.958:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 01:23:41.59 [4348:6052:0501/012341.591:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 01, 2020 01:23:47.96 [4348:6052:0501/012347.968:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 08:38:20.54 [4348:6052:0501/083820.546:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 01, 2020 08:38:28.46 [4348:6052:0501/083828.465:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 08:48:28.46 [4348:6052:0501/084828.468:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 08:58:28.47 [4348:6052:0501/085828.474:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 09:08:28.47 [4348:6052:0501/090828.476:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 09:18:28.48 [4348:6052:0501/091828.479:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 09:28:28.48 [4348:6052:0501/092828.482:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 09:38:28.48 [4348:6052:0501/093828.485:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 09:48:28.48 [4348:6052:0501/094828.485:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+May 01, 2020 16:35:04.00 NEW SESSION
+May 01, 2020 16:35:04.04 [828:4348:0501/163503.899:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 01, 2020 17:16:39.95 [544:3840:0501/171639.953:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 01, 2020 17:16:44.68 [544:2956:0501/171644.682:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 17:17:13.85 [544:2956:0501/171713.850:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 17:18:06.65 [544:2956:0501/171806.657:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 17:19:49.26 [544:2956:0501/171949.259:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 17:22:33.55 [544:2956:0501/172233.550:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 01, 2020 17:29:06.82 [544:2956:0501/172906.819:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+May 09, 2020 23:12:12.94 NEW SESSION
+May 09, 2020 23:12:12.94 [7104:4304:0509/231212.943:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 09, 2020 23:12:23.58 [7104:2924:0509/231223.579:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 09, 2020 23:12:23.58 [7104:2924:0509/231223.581:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:12:23.59 [7104:2924:0509/231223.582:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:12:46.39 [7104:4304:0509/231246.396:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+May 09, 2020 23:12:47.49 [7104:4304:0509/231247.491:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+May 09, 2020 23:12:47.80 [7104:2924:0509/231247.801:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:12:48.08 [7104:4304:0509/231248.080:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+May 09, 2020 23:12:51.76 [7104:2924:0509/231251.765:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:12:52.96 [7104:2924:0509/231252.965:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 09, 2020 23:13:35.56 [7104:2924:0509/231335.564:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:13:39.43 [7104:2924:0509/231339.430:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 09, 2020 23:13:42.17 [7104:2924:0509/231342.179:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:15:05.59 [7104:2924:0509/231505.592:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:15:12.91 [7104:2924:0509/231512.918:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:15:14.39 [7104:2924:0509/231514.397:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 09, 2020 23:18:16.31 [7104:2924:0509/231816.309:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 09, 2020 23:18:17.94 [7104:2924:0509/231817.948:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:18:56.43 [7104:2924:0509/231856.432:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:24:28.00 [7104:2924:0509/232428.005:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:24:29.65 [7104:2924:0509/232429.657:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:24:50.84 [7104:2924:0509/232450.843:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 09, 2020 23:24:58.24 [7104:2924:0509/232458.247:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105

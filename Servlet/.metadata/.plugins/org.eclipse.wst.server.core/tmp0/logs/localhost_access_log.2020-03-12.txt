@@ -1,0 +1,14 @@
+127.0.0.1 - - [12/Mar/2020:22:53:53 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:22:53:54 +0530] "GET /MarriageAppServerSideValidtion/ HTTP/1.1" 200 1779
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:22:53:54 +0530] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:22:54:06 +0530] "POST /MarriageAppServerSideValidtion/marriageurl HTTP/1.1" 200 144
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:22:54:06 +0530] "GET /MarriageAppServerSideValidtion/home.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:23:19:15 +0530] "GET /MarriageAppServerSideValidtion/input.html HTTP/1.1" 200 1779
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:23:25:26 +0530] "POST /MarriageAppServerSideValidtion/marriageurl HTTP/1.1" 200 144
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:23:31:03 +0530] "POST /MarriageAppServerSideValidtion/marriageurl HTTP/1.1" 200 144
+127.0.0.1 - - [12/Mar/2020:23:39:26 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:23:39:38 +0530] "POST /MarriageAppServerSideValidtion/marriageurl HTTP/1.1" 200 177
+127.0.0.1 - - [12/Mar/2020:23:40:33 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:23:40:42 +0530] "POST /MarriageAppServerSideValidtion/marriageurl HTTP/1.1" 200 180
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:23:40:45 +0530] "GET /MarriageAppServerSideValidtion/AboutUs.html HTTP/1.1" 200 197
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:23:40:55 +0530] "POST /MarriageAppServerSideValidtion/marriageurl HTTP/1.1" 200 180

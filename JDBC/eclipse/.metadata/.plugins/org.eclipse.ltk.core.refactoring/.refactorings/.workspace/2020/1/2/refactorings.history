@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;com.BatchUpdate.jdbc&apos; to &apos;BatchUpdateprocess&apos;" description="Rename resource &apos;com.BatchUpdate.jdbc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/com.BatchUpdate.jdbc" name="BatchUpdateprocess" stamp="1578555264076" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;BatchUpdateprocess&apos;" deleteContents="false" description="Delete resource &apos;BatchUpdateprocess&apos;" element1="/BatchUpdateprocess" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1578555571362"/>
+</session>

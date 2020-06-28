@@ -1,0 +1,42 @@
+package com.jdbc.my;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.util.Scanner;
+
+public class SavePoint {
+	private static final String PODUCT_SALE_QUERY="UPDATE  " 
+	public static void main(String[]args) {
+		Scanner sc=null;
+		 int id=0,acnt=0;
+		 Connection con=null;
+		try {
+			sc=new Scanner(System.in);
+			if(sc!=null) {
+			System.out.println("Enter id");
+			id=sc.nextInt();
+			System.out.println("Enter acnt no");
+			 acnt=sc.nextInt();
+			
+			}
+//register jdbc 
+			Class.forName("oracle.jdbc.driver.OracleDriver");
+//established the Connection
+			con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","system","manager");
+//Begin Tx
+		if(con!=null) {
+			con.setAutoCommit(false);
+		}
+
+
+//prepareStatement object
+		con.prepareStatement(sql);
+		
+			
+			
+					
+			
+		}
+	}
+
+}

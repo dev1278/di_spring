@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="2">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:/E\:/Advance%20Java/advanc%20java/Servlet/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1583610732926/index.html|*|file\:/C\:/Users/Devendra/eclipse/jee-2019-12/eclipse/../../../.p2/pool/plugins/org.springsource.ide.eclipse.commons.gettingstarted_3.9.11.201912160745-RELEASE/resources/welcome/index.html|*|http\://localhost\:3333/MarriageApp/input.html|*|http\://localhost\:3333/MarriageApp/|*|http\://localhost\:3333/MarriageApp/marriageurl|*|

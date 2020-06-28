@@ -1,0 +1,124 @@
+package com.jdbc.my;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.sql.Savepoint;
+import java.util.Scanner;
+
+public class SavePoint {
+	private static final String UPDATALIST_QUERY="UPDATE PRODUCT_SALE SET PCOUNT=PCOUNT-1 WHERE PID=?" ;
+	private static final String UPDATE_BANK_ACCOUNT_QUERY="UPDATE BANK_ACCOUNT SET BALANCE=BALANCE-(SELECT PRICE FROM PRODUCT_SALE WHERE PID =?)WHERE ACCNO=?";
+	public static void main(String[]args) {
+		Scanner sc=null;
+		 int pid=0,accno=0,count1,count2=0;
+		 Connection con=null;
+		 PreparedStatement ps1,ps2=null;
+		 Savepoint sp=null;
+		try {
+			sc=new Scanner(System.in);
+			if(sc!=null) {
+			System.out.println("Enter Product id");
+			id=sc.nextInt();
+			System.out.println("Enter bank acnt no");
+			 accno=sc.nextInt();
+			
+			}
+//register jdbc 
+			Class.forName("oracle.jdbc.driver.OracleDriver");
+//established the Connection
+			con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","system","manager");
+
+//create statment object
+			if(con!=null) {
+				ps1=con.prepareStatement(UPDATALIST_QUERY);
+				ps2=con.prepareStatement(UPDATE_BANK_ACCOUNT_QUERY);
+//Begin Tx
+		       
+			      con.setAutoCommit(false);
+		}
+	//set Values to QUERY PARAM
+			if(ps1!=null&&ps2!=null) {
+				ps1.setInt(1,pid);
+				ps2.setInt(1,pid);
+				ps2.setInt(2,accno);
+			}
+	//execute the sql query
+			if(ps1!=null&&ps2!=null) {
+				count1=ps1.executeUpdate();
+	//create savePoint
+				sp=con.setSavepoint("ORDER CONFORMED");
+				count2=ps2.executeUpdate();
+			}
+	//process the result
+			if(count1==0 && count2==0) {
+				con.rollback();
+				System.out.println("product not available and tx Failed");
+			}
+			else if(count1!=0 &&count2==0) {
+				con.rollback(sp);
+				System.out.println("online tX Failed , COD NOW enabled");
+			}	
+			else if(count1==0 && count2!=0) {
+				con.rollback();
+				System.out.println("product not available  and refund generated");
+				
+			}
+			else {
+				con.commit();
+				System.out.println("Order  Successfully");
+			}
+		}
+    catch(SQLException se) {
+    	se.printStackTrace();
+    }
+		catch(ClassNotFoundException cnf) {
+			cnf.printStackTrace();
+		}
+		catch(Exception e) {
+			e.printStackTrace();
+		}
+//close jdbc connection		
+		finally {
+			try {
+				if(ps1!=null) 
+					ps1.close();
+			}
+			catch(SQLException se) {
+				se.printStackTrace();
+			}
+			try {
+				if(ps2!=null) 
+					ps2.close();
+			}
+			catch(SQLException se) {
+				se.printStackTrace();
+			}
+			try {
+				if(ps1!=null) 
+					ps1.close();
+			}
+			catch(SQLException se) {
+				se.printStackTrace();
+			}
+			try {
+				if(con!=null) 
+					con.close();
+			}
+			catch(SQLException se) {
+				se.printStackTrace();
+			}
+			try {
+				if(sc!=null) 
+					sc.close();
+			}
+			catch(Exception e) {
+				e.printStackTrace();
+			}
+		}//finall
+		
+		
+	}//main
+
+   }//class

@@ -1,0 +1,24 @@
+package com.jdbc.my;
+
+import java.util.Scanner;
+
+public class SavePoint {
+	public static void main(String[]args) {
+		Scanner sc=null;
+		 int id=0,acnt=0;
+		try {
+			sc=new Scanner(System.in);
+			if(sc!=null) {
+			System.out.println("Enter id");
+			id=sc.nextInt();
+			System.out.println("Enter acnt no");
+			 acnt=sc.nextInt();
+			
+			}
+			
+					
+			
+		}
+	}
+
+}
