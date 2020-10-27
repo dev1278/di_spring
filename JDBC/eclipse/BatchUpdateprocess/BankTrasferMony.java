@@ -21,6 +21,7 @@ public class BankTrasferMony {
 
 			sc = new Scanner(System.in);
 			if (sc != null) {
+				
 				System.out.println("Enter Consumer account No::");
 				scrAccnt = sc.nextInt();
 
