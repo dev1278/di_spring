@@ -9,7 +9,6 @@ import java.util.Scanner;
 public class BankTrasferMony {
 	public static void main(String[] args) {
 		Scanner sc = null;
-
 		int scrAccnt = 0, DestiAccnt = 0;
 		float Amunt = 0.0f;
 		Connection con = null;
